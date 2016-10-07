@@ -1,0 +1,43 @@
+Author: Rui Chang
+Date: 2016-09-11
+Project: Transfer English to 1337 using Flex
+Compile: make
+Run: ./run
+Alphabet:
+  English -> 1337
+	a|A		 4
+	b|B		 8
+	c|C		 (
+	d|D		 |)
+	e|E		 3
+	f|F		 |"
+	g|G		 6
+	h|H		 |-|
+	i|I		 !
+	j|J		 _7
+	k|K		 |<
+	l|L		 1
+	m|M		 ^^
+	n|N		 |\|
+	o|O		 0
+	p|P		 |D
+	q|Q		 9
+	r|R		 |2
+	s|S		 5
+	t|T		 7
+	u|U		 \_/
+	v|V		 \/
+	w|W		 \^/
+	x|X		 %
+	y|Y		 '/
+	z|Z		 2
+	1		 one
+	2		 two
+	3		 three
+	4		 four
+	5		 five
+	6		 six
+	7		 seven
+	8		 eight
+	9		 nine
+	0		 zero
