@@ -23,5 +23,5 @@ Project Description:
         4. Extend astCalc so that it uses dot to build a graphical representation of the expression tree.
 	   Shown in graph.gv and graph.png.
 	5. Extend the test cases contained in the directory cases to adequately test the project.
-	Extra: For ast.h and ast.cpp , change them to objected oriented implementation.
+	6. Extra: For ast.h and ast.cpp , change them to objected oriented implementation.
 
